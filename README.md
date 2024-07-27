@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **ReactJs, NodeJs, React-Native, Java, mongoDB,Redux, Rtk query**
 
-- 📫 How to reach me **keertanb,work@gmail.com**
+- 📫 How to reach me **keertanb.work@gmail.com**
 
 - ⚡ Fun fact **Have been a member of the Google Developer Students Club, I’ve rocked an AI/ML team hackathon and even secured a government SSIP grant for an innovative fire detection project! 🔥🚒**
 
